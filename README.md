@@ -1,3 +1,6 @@
+# click here to see the postcard
+# https://josegabrielgomezp.github.io/Postcard-JG/
+
 <!-- hide -->
 # The Postcard
 <!-- endhide -->
